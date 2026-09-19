@@ -671,3 +671,49 @@
 | Evan Calder Williams             | ایوان کالدر ویلیامز     | person    | fixed       |                                                            |
 | the undifferentiated             | نامتمایزها              | concept   | fixed       |                                                            |
 | sublime                          | والا                    | concept   | fixed       | در معنای زیبایی‌شناختی                                     |
+| William Blake                         | ویلیام بلیک                                | person                    | fixed  |                                                              |
+| The Four Zoas                         | چهار زوآ                                   | work                      | fixed  |                                                              |
+| Alison Rumfitt                        | الیسون رامفیت                              | person                    | fixed  |                                                              |
+| Tell Me I’m Worthless                 | بگو بی‌ارزشم                               | work                      | fixed  |                                                              |
+| acid communism                        | کمونیسم اسیدی                              | concept                   | fixed  | اصطلاح مرتبط با مارک فیشر                                    |
+| surplus of meaning                    | مازاد معنا                                 | concept                   | fixed  |                                                              |
+| The Babadook                          | بابادوک                                    | work/character            | fixed  | فیلم ۲۰۱۴                                                    |
+| Jennifer Kent                         | جنیفر کنت                                  | person                    | fixed  |                                                              |
+| Heimat                                | وطن                                        | concept                   | fixed  | اصطلاح بلوخ؛ بار معنایی خانه/وطن دارد                        |
+| gender ideology                       | ایدئولوژی جنسیت                            | political concept         | fixed  |                                                              |
+| transphobia                           | ترنس‌هراسی                                 | concept                   | fixed  |                                                              |
+| Alice                                 | آلیس                                       | character                 | fixed  | در Tell Me I’m Worthless                                     |
+| Ila                                   | ایلا                                       | character                 | fixed  |                                                              |
+| Hannah                                | هانا                                       | character                 | fixed  |                                                              |
+| gender-critical feminism              | فمینیسم نقاد جنسیت                         | political concept         | fixed  | عبارت خودخوانده در متن؛ لحن انتقادی نویسنده حفظ شود          |
+| Perfidious Albion                     | آلبیون خائن                                | cultural/political phrase | fixed  |                                                              |
+| Mexican Gothic                        | گوتیک مکزیکی                               | work                      | fixed  |                                                              |
+| Silvia Moreno-Garcia                  | سیلویا مورنو-گارسیا                        | person                    | fixed  |                                                              |
+| micro-fascisms                        | ریزفاشیسم‌ها                               | concept                   | fixed  |                                                              |
+| Spinoza                               | اسپینوزا                                   | person                    | fixed  |                                                              |
+| Pride                                 | پراید                                      | cultural/political term   | fixed  |                                                              |
+| disidentification                     | ناهم‌هویت‌شدن                              | concept                   | fixed  |                                                              |
+| Gretchen Felker-Martin                | گرچن فلکر-مارتین                           | person                    | fixed  |                                                              |
+| Manhunt                               | شکار انسان                                 | work                      | fixed  |                                                              |
+| gendercide novel                      | رمان جنسیت‌کُشی                            | genre/concept             | fixed  |                                                              |
+| Y: The Last Man                       | وای: آخرین مرد                             | work                      | fixed  |                                                              |
+| Afterland                             | افترلند                                    | work                      | fixed  |                                                              |
+| The Men                               | مردان                                      | work                      | fixed  |                                                              |
+| estrophaga “t. rex” virus             | ویروس استروفاگا «تی. رکس»                  | fictional disease         | fixed  |                                                              |
+| gender-essentialist                   | جنسیت‌ذات‌گرایانه                          | concept                   | fixed  |                                                              |
+| Fran                                  | فران                                       | character                 | fixed  |                                                              |
+| Beth                                  | بث                                         | character                 | fixed  |                                                              |
+| Sophie Widdel                         | سوفی ویدل                                  | character                 | fixed  |                                                              |
+| bunker brat                           | بچه‌پولدارِ پناهگاه                        | concept/description       | fixed  |                                                              |
+| assimilationist                       | همگون‌سازانه                               | concept                   | fixed  |                                                              |
+| TERF                                  | تِرف / فمینیست رادیکالِ طردکننده‌ی ترنس‌ها | political term            | fixed  | مخفف trans-exclusionary radical feminist                     |
+| Maryland Womyn’s Legion               | لژیون ویمین مریلند (لژیون زنان مریلند)     | fictional organization    | fixed  | املای Womyn در نام اصلی عامدانه است                          |
+| Ramona                                | رامونا                                     | character                 | fixed  |                                                              |
+| chaser                                | چِیسر                                      | concept/slang             | fixed  | فردی که افراد ترنس را به‌صورت فتیشیستی موضوع میل قرار می‌دهد |
+| Flying Saucer Collective              | کالکتیو فلایینگ ساوسر (بشقاب‌پرنده)        | fictional organization    | fixed  |                                                              |
+| Settlers of Catan                     | مهاجران کاتان                              | work/game                 | fixed  |                                                              |
+| Fort Dyke                             | فورت دایک (دژ دایک)                        | fictional place           | fixed  | «Dyke» در نام، بازی زبانی کوئیر نیز دارد                     |
+| Herbert Marcuse                       | هربرت مارکوزه                              | person                    | fixed  |                                                              |
+| specter of a world that would be free | شبح جهانی که آزاد خواهد بود                | phrase/concept            | fixed  | عبارت مارکوزه، به نقل از مارک فیشر                           |
+| Ursula Le Guin                        | اورسولا لو گویین                           | person                    | fixed  |                                                              |
+| realism of a larger reality           | رئالیسمِ واقعیتی بزرگ‌تر                   | concept/phrase            | fixed  |                                                              |
