@@ -153,3 +153,73 @@
 | profane illumination     | اشراق ناسوتی                 | concept        | fixed  | اصطلاح بنیامین                                                       |
 | Margaret Cohen           | مارگارت کوهن                 | person         | fixed  |                                                                      |
 | utopian surplus          | مازاد آرمان‌شهری             | concept        | fixed  |                                                                      |
+| Upton Sinclair                         | آپتون سینکلر                   | person                | fixed       |                                 |
+| phenomenology                          | پدیدارشناسی                    | concept               | fixed       |                                 |
+| The Jungle                             | جنگل                           | work                  | fixed       | رمان ۱۹۰۶                       |
+| Jurgis                                 | یورگیس                         | character             | fixed       |                                 |
+| Ona                                    | اونا                           | character             | fixed       |                                 |
+| Global North                           | شمال جهانی                     | concept               | fixed       |                                 |
+| Xu Lizhi                               | شو لیزی                        | person                | fixed       |                                 |
+| Foxconn                                | فاکس‌کان                       | organization          | fixed       |                                 |
+| I Fell Asleep, Just Standing Like That | همین‌طور ایستاده خوابم برد     | work                  | fixed       | عنوان شعر                       |
+| service economy                        | اقتصاد خدماتی                  | concept               | fixed       |                                 |
+| The Platform                           | پلتفرم                         | work                  | fixed       | فیلم ۲۰۱۹                       |
+| Parasite                               | انگل                           | work                  | fixed       |                                 |
+| Ready or Not                           | آماده‌ای یا نه                 | work                  | fixed       |                                 |
+| Vertical Self-Management Centre        | مرکز خودمدیریتی عمودی          | fictional institution | fixed       |                                 |
+| Goreng                                 | گورنگ                          | character             | fixed       |                                 |
+| class stratification                   | لایه‌بندی طبقاتی               | concept               | fixed       |                                 |
+| trickle-down economics                 | اقتصاد رخنه‌به‌پایین           | concept               | fixed       |                                 |
+| neoliberal managerialism               | مدیریت‌گرایی نئولیبرالی        | concept               | fixed       |                                 |
+| Don Quixote                            | دن کیشوت                       | work                  | fixed       |                                 |
+| cruel optimism                         | خوش‌بینی بی‌رحمانه             | concept               | fixed       | اصطلاح لورن برلنت               |
+| Lauren Berlant                         | لورن برلنت                     | person                | fixed       |                                 |
+| Mark Fisher                            | مارک فیشر                      | person                | fixed       |                                 |
+| responsibilisation                     | مسئولیت‌مند‌سازی               | concept               | fixed       | انتقال بار مسائل ساختاری به فرد |
+| Trimagasi                              | تریماگاسی                      | character             | fixed       |                                 |
+| Imoguiri                               | ایموگیری                       | character             | fixed       |                                 |
+| spontaneous solidarity                 | همبستگی خودجوش                 | concept               | fixed       |                                 |
+| Thatcher                               | تاچر                           | person                | fixed       |                                 |
+| social field                           | میدان اجتماعی                  | concept               | fixed       |                                 |
+| class consciousness                    | آگاهی طبقاتی                   | concept               | fixed       |                                 |
+| Hobbesian                              | هابزی                          | concept               | fixed       |                                 |
+| Baharat                                | بهارات                         | character             | fixed       |                                 |
+| panna cotta                            | پاناکوتا                       | food                  | fixed       |                                 |
+| the New                                | امر نو                         | concept               | fixed       |                                 |
+| neoliberal subjectification            | سوژه‌سازی نئولیبرالی           | concept               | fixed       |                                 |
+| sociality                              | اجتماع‌مندی                    | concept               | fixed       |                                 |
+| Grace                                  | گریس                           | character             | fixed       |                                 |
+| Alex                                   | الکس                           | character             | fixed       |                                 |
+| Le Domas                               | لو دوماس                       | fictional family      | fixed       |                                 |
+| Hide and Seek                          | قایم‌باشک                      | game                  | fixed       |                                 |
+| Le Bail                                | لو بیل                         | character             | fixed       |                                 |
+| Aufhebung                              | رفع                            | concept               | fixed       | اصطلاح هگلی؛ در نقل‌قول مانیفست |
+| James Vanderbilt                       | جیمز وندربیلت                  | person                | fixed       |                                 |
+| Chemical Bank                          | کمیکال بانک                    | organization          | fixed       |                                 |
+| New York Racing Association            | انجمن اسب‌دوانی نیویورک        | organization          | fixed       |                                 |
+| capital accumulation                   | انباشت سرمایه                  | concept               | fixed       |                                 |
+| Bong Joon-ho                           | بونگ جون‌هو                    | person                | fixed       |                                 |
+| intra-class antagonism                 | خصومت درون‌طبقاتی              | concept               | fixed       |                                 |
+| Kim                                    | کیم                            | fictional family      | fixed       |                                 |
+| Park                                   | پارک                           | fictional family      | fixed       |                                 |
+| precarious micro-work                  | خرده‌کارهای کم‌درآمد و بی‌ثبات | concept               | provisional |                                 |
+| Min-hyuk                               | مین‌هیوک                       | character             | fixed       |                                 |
+| Ki-Woo                                 | کی‌وو                          | character             | fixed       |                                 |
+| Da-hye                                 | داهه                           | character             | fixed       |                                 |
+| Ki-jung                                | کی‌جونگ                        | character             | fixed       |                                 |
+| Da-song                                | داسونگ                         | character             | fixed       |                                 |
+| Ki-taek                                | کی‌تک                          | character             | fixed       |                                 |
+| Moon-gwang                             | مون‌گوانگ                      | character             | fixed       |                                 |
+| Chung-sook                             | چونگ‌سوک                       | character             | fixed       |                                 |
+| Ealing comedy                          | کمدی ایلینگ                    | concept/genre         | fixed       |                                 |
+| Geun-sae                               | گون‌سه                         | character             | fixed       |                                 |
+| financial spectrality                  | شبح‌وارگی مالی                 | concept               | fixed       |                                 |
+| libertarian                            | لیبرتارین                      | concept               | fixed       |                                 |
+| objectivist                            | عینیت‌گرا                      | concept               | fixed       |                                 |
+| ontological                            | وجودشناختی                     | concept               | fixed       |                                 |
+| Morse code                             | رمز مورس                       | concept               | fixed       |                                 |
+| economism                              | اقتصادگرایی                    | concept               | fixed       |                                 |
+| Capitalism as Religion                 | سرمایه‌داری به‌مثابه دین       | work                  | fixed       | قطعه‌ی والتر بنیامین            |
+| Weberian                               | وبری                           | concept               | fixed       |                                 |
+| utilitarianism                         | فایده‌گرایی                    | concept               | fixed       |                                 |
+| capitalist realism                     | رئالیسم سرمایه‌دارانه          | concept               | fixed       |                                 |
