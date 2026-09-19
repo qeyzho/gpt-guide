@@ -259,3 +259,44 @@
 | Stalin                           | استالین                                      | person               | fixed  |                             |
 | French Revolution                | انقلاب فرانسه                                | historical event     | fixed  |                             |
 | late capitalism                  | سرمایه‌داری متأخر                            | term                 | fixed  |                             |
+| Teamwork                           | کار تیمی                                | section title       | fixed  |                                                     |
+| iMac                               | آی‌مک                                   | product             | fixed  |                                                     |
+| Media Team                         | تیم رسانه                               | organizational unit | fixed  |                                                     |
+| third-party partners team          | تیم شرکای ثالث                          | organizational unit | fixed  |                                                     |
+| Upcoming Tasks                     | کارهای پیش رو                           | workplace term      | fixed  |                                                     |
+| Completed Tasks                    | کارهای انجام‌شده                        | workplace term      | fixed  |                                                     |
+| Ongoing Tasks                      | کارهای در حال انجام                     | workplace term      | fixed  |                                                     |
+| What’s Good? What Needs Improving? | چه چیزی خوب است؟ چه چیزی باید بهتر شود؟ | workplace exercise  | fixed  |                                                     |
+| Sweet’N Low                        | شکرین                                   | product             | fixed  | شیرین‌کننده‌ی مصنوعی                                |
+| Yolie                              | یولی                                    | person              | fixed  | مدیر دفتر                                           |
+| Secret Santa Gift                  | هدیه‌ی بابانوئل مخفی                    | cultural term       | fixed  |                                                     |
+| Snapple                            | اسنپل                                   | brand               | fixed  |                                                     |
+| Tracy                              | تریسی                                   | person              | fixed  |                                                     |
+| Taco Bell                          | تاکو بل                                 | company             | fixed  |                                                     |
+| site visit                         | بازدید میدانی                           | workplace term      | fixed  | بازدید از آژانس‌ها در پروژه‌ی Y2K                   |
+| Sydney                             | سیدنی                                   | place               | fixed  |                                                     |
+| Dusseldorf                         | دوسلدورف                                | place               | fixed  |                                                     |
+| Paris                              | پاریس                                   | place               | fixed  |                                                     |
+| Dallas                             | دالاس                                   | place/work          | fixed  | هم نام شهر و هم عنوان سریال                         |
+| Cadillac                           | کادیلاک                                 | brand               | fixed  |                                                     |
+| Darren L.                          | دارن ال.                                | person              | fixed  |                                                     |
+| Four Seasons Hotel and Resort      | هتل و اقامتگاه فور سیزنز                | place/company       | fixed  |                                                     |
+| Barbara                            | باربارا                                 | person              | fixed  |                                                     |
+| The Golden Girls                   | دختران طلایی                            | work                | fixed  |                                                     |
+| Blanche                            | بلانش                                   | character           | fixed  |                                                     |
+| Dorothy                            | دوروتی                                  | character           | fixed  |                                                     |
+| Sophia                             | سوفیا                                   | character           | fixed  |                                                     |
+| Rose                               | رز                                      | character           | fixed  |                                                     |
+| Bea Arthur                         | بی آرتور                                | person              | fixed  |                                                     |
+| NFL                                | لیگ ملی فوتبال آمریکا                   | organization        | fixed  |                                                     |
+| Buffalo Bills                      | بوفالو بیلز                             | sports team         | fixed  |                                                     |
+| Flutie / Doug Flutie               | فلوتی / داگ فلوتی                       | person              | fixed  |                                                     |
+| Boston College                     | بوستون کالج                             | institution         | fixed  |                                                     |
+| Hail Mary                          | هیل مری                                 | sports term         | fixed  | پاس بلند و نومیدانه در لحظات پایانی فوتبال آمریکایی |
+| Heisman Trophy                     | جایزه‌ی هایزمن                          | award               | fixed  |                                                     |
+| HVAC system                        | سامانه‌ی گرمایش، تهویه و تهویه‌ی مطبوع  | technical term      | fixed  |                                                     |
+| Tampax                             | تامپکس                                  | brand               | fixed  |                                                     |
+| Hertz Rental Rewards Colonel       | سرهنگ برنامه‌ی پاداش اجاره‌ی هرتز       | humorous title      | fixed  | عنوان رتبه در برنامه‌ی وفاداری                      |
+| Dallas Roy                         | رویِ دالاسی                             | nickname            | fixed  | نام مستعار ساخته‌ی نویسنده                          |
+| Timbuktu                           | تیمبوکتو                                | place               | fixed  | در متن به معنای جایی بسیار دور                      |
+| Process Latin                      | لاتینِ فرایند                           | workplace term      | fixed  | زبان یکدست و رسمی‌شده‌ی فرایند                      |
