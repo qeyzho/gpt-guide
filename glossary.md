@@ -360,3 +360,102 @@
 | recalibration                    | بازتنظیم                   | concept               | fixed       |                            |
 | society of control               | جامعه‌ی کنترل              | concept               | fixed       |                            |
 | fugue state                      | حالت گریز ذهنی             | concept               | provisional |                            |
+| Brett Kavanaugh                        | برت کاوانا                       | person                | fixed       |                                              |
+| Father Gary Thomas                     | پدر گری توماس                    | person                | fixed       |                                              |
+| San Jose, California                   | سن‌خوزه، کالیفرنیا               | place                 | fixed       |                                              |
+| Newsweek                               | نیوزویک                          | publication           | fixed       |                                              |
+| antifa                                 | آنتی‌فا                          | political term        | fixed       |                                              |
+| Sylvia Federici                        | سیلویا فدریچی                    | person                | fixed       |                                              |
+| Witches, Witch-Hunting, and Women      | جادوگران، شکار جادوگران و زنان   | work                  | fixed       |                                              |
+| Jude Doyle                             | جود دویل                         | person                | fixed       |                                              |
+| Dario Argento                          | داریو آرجنتو                     | person                | fixed       |                                              |
+| Hilary Clinton                         | هیلاری کلینتون                   | person                | fixed       | املای منبع Hilary؛ صورت رایج Hillary Clinton |
+| Trump                                  | ترامپ                            | person                | fixed       |                                              |
+| Taylor Swift                           | تیلور سوئیفت                     | person                | fixed       |                                              |
+| Reputation                             | اعتبار                           | work                  | fixed       | آلبوم                                        |
+| Madeline Miller                        | مادلین میلر                      | person                | fixed       |                                              |
+| Trish Thawer                           | تریش تاور                        | person                | fixed       |                                              |
+| The Witches of Eastbrook               | جادوگران ایست‌بروک               | work                  | fixed       |                                              |
+| Etsy                                   | اتسی                             | organization/platform | fixed       |                                              |
+| monstrous feminine                     | امر زنانه‌ی هیولاوار             | concept               | fixed       | اصطلاح باربارا کرید                          |
+| Barbara Creed                          | باربارا کرید                     | person                | fixed       |                                              |
+| monstrous feminism                     | فمینیسم هیولاوار                 | concept               | fixed       |                                              |
+| heteropatriarchal capitalism           | سرمایه‌داری دگرجنس‌پدرسالار      | concept               | fixed       |                                              |
+| Puritan                                | پیوریتن                          | concept               | fixed       |                                              |
+| William                                | ویلیام                           | character             | fixed       | در The VVitch                                |
+| Ralph Ineson                           | رالف اینسون                      | person                | fixed       |                                              |
+| Katherine                              | کاترین                           | character             | fixed       | در The VVitch                                |
+| Kate Dickie                            | کیت دیکی                         | person                | fixed       |                                              |
+| Thomasin                               | توماسین                          | character             | fixed       |                                              |
+| Anya Taylor-Joy                        | آنیا تیلور-جوی                   | person                | fixed       |                                              |
+| Caleb                                  | کیلب                             | character             | fixed       |                                              |
+| Harvey Scrimshaw                       | هاروی اسکریمشا                   | person                | fixed       |                                              |
+| Mercy                                  | مرسی                             | character             | fixed       |                                              |
+| Ellie Grainger                         | الی گرینجر                       | person                | fixed       |                                              |
+| Jonas                                  | جوناس                            | character             | fixed       |                                              |
+| Lucas Dawson                           | لوکاس داوسن                      | person                | fixed       |                                              |
+| Sam                                    | سام                              | character             | fixed       |                                              |
+| Axtun Henry Dube and Athan Conrad Dube | اکستون هنری دوب و ایتن کنراد دوب | persons               | fixed       |                                              |
+| Black Phillip                          | بلک فیلیپ                        | character             | fixed       |                                              |
+| Elizabeth Parker                       | الیزابت پارکر                    | person                | fixed       |                                              |
+| Young Goodman Brown                    | گودمن براون جوان                 | work                  | fixed       |                                              |
+| Nathaniel Hawthorne                    | ناتانیل هاثورن                   | person                | fixed       |                                              |
+| Caliban and the Witch                  | کالیبان و ساحره                  | work                  | fixed       |                                              |
+| theological materialism                | ماده‌گرایی الهیاتی               | concept               | fixed       |                                              |
+| Calvinistic Christianity               | مسیحیت کالوینیستی                | concept               | fixed       |                                              |
+| Luca Guadagnino                        | لوکا گوادانینو                   | person                | fixed       |                                              |
+| giallo                                 | جالو                             | genre                 | fixed       |                                              |
+| Goblin                                 | گابلین                           | music group           | fixed       |                                              |
+| Thom Yorke                             | تام یورک                         | person                | fixed       |                                              |
+| German Autumn                          | پاییز آلمان                      | historical event      | fixed       |                                              |
+| Rote Armee Fraktion                    | فراکسیون ارتش سرخ                | organization          | fixed       |                                              |
+| Baader-Meinhof Gang                    | گروه بادر-ماینهوف                | organization          | fixed       |                                              |
+| Alexander Howard                       | الکساندر هاوارد                  | person                | fixed       |                                              |
+| Julian Murphet                         | جولین مورفت                      | person                | fixed       |                                              |
+| Ulrike Meinhof                         | اولریکه ماینهوف                  | person                | fixed       |                                              |
+| The Hitler within Us                   | هیتلر درون ما                    | work                  | fixed       |                                              |
+| working through history                | کارکردن بر تاریخ                 | concept               | provisional |                                              |
+| Anti-Oedipus                           | ضد ادیپ                          | work                  | fixed       |                                              |
+| Patricia                               | پاتریشیا                         | character             | fixed       |                                              |
+| Dr Klemperer                           | دکتر کلمپرر                      | character             | fixed       |                                              |
+| Tilda Swinton                          | تیلدا سوینتن                     | person                | fixed       |                                              |
+| Madame Blanc                           | مادام بلان                       | character             | fixed       |                                              |
+| Sara                                   | سارا                             | character             | fixed       |                                              |
+| Mia Goth                               | میا گاث                          | person                | fixed       |                                              |
+| polysemous allegory                    | تمثیل چندمعنا                    | concept               | fixed       |                                              |
+| revanchist capitalism                  | سرمایه‌داری انتقام‌جو            | concept               | provisional |                                              |
+| Volk                                   | فولک                             | work/concept          | fixed       | عنوان قطعه‌ی رقص؛ بار تاریخی آلمانی دارد     |
+| Suzy Bannion                           | سوزی بنیون                       | character             | fixed       |                                              |
+| Olga                                   | اولگا                            | character             | fixed       |                                              |
+| Heritage of Our Time                   | میراث زمان ما                    | work                  | fixed       | اثر بلوخ                                     |
+| Markos                                 | مارکوس                           | character             | fixed       |                                              |
+| Mother Suspiriorum                     | مادر سوسپیریوروم                 | character/concept     | fixed       |                                              |
+| grand guignol                          | گراند گینیول                     | aesthetic term        | fixed       |                                              |
+| On the Concept of History              | درباره‌ی مفهوم تاریخ             | work                  | fixed       |                                              |
+| praxis                                 | پراکسیس                          | concept               | fixed       |                                              |
+| Lufthansa                              | لوفت‌هانزا                       | organization          | fixed       |                                              |
+| Anke                                   | آنکه                             | character             | fixed       |                                              |
+| Good for Her Cinematic Universe        | جهان سینماییِ حقش بود            | cultural phrase       | provisional |                                              |
+| speech-act                             | کنش گفتاری                       | concept               | fixed       |                                              |
+| commune of witches                     | کمون جادوگران                    | concept               | fixed       |                                              |
+| Académie de psychanalyse de France     | آکادمی روان‌کاوی فرانسه          | institution           | fixed       |                                              |
+| École de la cause freudienne           | مدرسه‌ی آرمان فرویدی             | institution           | provisional |                                              |
+| Victor Hugo                            | ویکتور هوگو                      | person                | fixed       |                                              |
+| The Man Who Laughs                     | مردی که می‌خندد                  | work                  | fixed       |                                              |
+| Lorenza Böttner                        | لورنزا بوتنر                     | person                | fixed       |                                              |
+| Handicapped?                           | معلول؟                           | work                  | fixed       |                                              |
+| A Report to an Academy                 | گزارشی به یک آکادمی              | work                  | fixed       |                                              |
+| Red Peter                              | پیتر سرخ                         | character             | fixed       |                                              |
+| Lacan                                  | لاکان                            | person                | fixed       |                                              |
+| somatheque                             | سوماتِک                          | concept               | provisional | «بایگانی سیاسی زنده» در تعریف پرسیادو        |
+| molecular uprising                     | قیام مولکولی                     | concept               | fixed       |                                              |
+| sexual subaltern                       | فرودست جنسی                      | concept               | fixed       |                                              |
+| Adam C. Jones                          | آدام سی. جونز                    | person                | fixed       |                                              |
+| epistemological insubordination        | نافرمانی معرفت‌شناختی            | concept               | fixed       |                                              |
+| Thomas Kuhn                            | توماس کوهن                       | person                | fixed       |                                              |
+| Bruno Latour                           | برونو لاتور                      | person                | fixed       |                                              |
+| pharmacopornographic technologies      | فناوری‌های فارماکوپورنوگرافیک    | concept               | fixed       |                                              |
+| Judith Butler                          | جودیت باتلر                      | person                | fixed       |                                              |
+| Guardian                               | گاردین                           | publication           | fixed       |                                              |
+| Tom Moylan                             | تام مویلن                        | person                | fixed       |                                              |
+| habitus                                | عادت‌واره                        | concept               | fixed       |                                              |
