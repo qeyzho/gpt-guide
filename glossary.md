@@ -536,3 +536,99 @@
 | Franco Berardi                                   | فرانکو براردی                    | person              | fixed       |                                    |
 | Bios                                             | زیست                             | concept             | fixed       | در نقل‌قول براردی                  |
 | Cours camarade, le vieux monde est derrière toi! | بدو رفیق، جهان کهنه پشت سر توست! | phrase              | fixed       | شعار ۱۹۶۸                          |
+| Saw                           | اره                              | work/franchise            | fixed       |                                      |
+| The Purge                     | پاکسازی                          | work/franchise            | fixed       |                                      |
+| antinomies                    | آنتی‌نومی‌ها                     | concept                   | fixed       |                                      |
+| nu-metal                      | نیومتال                          | genre                     | fixed       |                                      |
+| James Wan                     | جیمز وان                         | person                    | fixed       |                                      |
+| Leigh Whannell                | لی ونل                           | person                    | fixed       |                                      |
+| Cary Elwes                    | کری الویس                        | person                    | fixed       |                                      |
+| Jigsaw Killer                 | قاتل جیگ‌ساو                     | character/title           | fixed       |                                      |
+| John Kramer                   | جان کریمر                        | character                 | fixed       |                                      |
+| Tobin Bell                    | توبین بل                         | person                    | fixed       |                                      |
+| Jill                          | جیل                              | character                 | fixed       |                                      |
+| moral economy                 | اقتصاد اخلاقی                    | concept                   | fixed       |                                      |
+| lifeworld                     | جهان‌زیست                        | concept                   | fixed       |                                      |
+| sovereignty                   | حاکمیت                           | concept                   | fixed       |                                      |
+| Achille Mbembe                | آشیل امبمبه                      | person                    | fixed       |                                      |
+| necropolitics                 | مرگ‌سیاست                        | concept                   | fixed       | صفت آن پیش‌تر «مرگ‌سیاستی» تثبیت شده |
+| Billy the Puppet              | بیلی، عروسک بدنام                | character                 | fixed       |                                      |
+| Michel Foucault               | میشل فوکو                        | person                    | fixed       |                                      |
+| Carl Schmitt                  | کارل اشمیت                       | person                    | fixed       |                                      |
+| Political Theology            | الهیات سیاسی                     | work                      | fixed       |                                      |
+| state of exception            | وضعیت استثنایی                   | concept                   | fixed       |                                      |
+| Guantanamo Bay                | گوانتانامو                       | place                     | fixed       |                                      |
+| CIA                           | سیا                              | organization              | fixed       |                                      |
+| Saw III                       | اره ۳                            | work                      | fixed       |                                      |
+| Lynn                          | لین                              | character                 | fixed       |                                      |
+| Bahar Soomekh                 | بهار سومخ                        | person                    | fixed       |                                      |
+| Amanda                        | آماندا                           | character                 | fixed       |                                      |
+| Shawnee Smith                 | شانی اسمیت                       | person                    | fixed       |                                      |
+| Jeff                          | جف                               | character                 | fixed       |                                      |
+| torture porn                  | پورنوگرافی شکنجه                 | concept/genre label       | fixed       |                                      |
+| necro-neoliberalism           | نئولیبرالیسم مرگ‌سیاستی          | concept                   | fixed       |                                      |
+| bare life                     | حیات برهنه                       | concept                   | fixed       | اصطلاح آگامبن                        |
+| Saw V                         | اره ۵                            | work                      | fixed       |                                      |
+| FIRE economy                  | اقتصاد مالی، بیمه و املاک        | concept                   | fixed       | مخفف finance, insurance, real estate |
+| NAFTA                         | نفتا                             | institution/agreement     | fixed       |                                      |
+| zero-sum game                 | بازی حاصل‌جمع صفر                | concept                   | fixed       |                                      |
+| Saw VI                        | اره ۶                            | work                      | fixed       |                                      |
+| Barack Obama                  | باراک اوباما                     | person                    | fixed       |                                      |
+| Affordable Care Act / ACA     | قانون مراقبت مقرون‌به‌صرفه / ACA | concept/law               | fixed       |                                      |
+| William Easton                | ویلیام ایستون                    | character                 | fixed       |                                      |
+| Peter Outerbridge             | پیتر اوتربریج                    | person                    | fixed       |                                      |
+| neoliberal vitalism           | حیات‌باوری نئولیبرالی            | concept                   | fixed       |                                      |
+| American exceptionalism       | استثناگرایی آمریکایی             | concept                   | fixed       |                                      |
+| New Founding Fathers          | پدران بنیان‌گذار نو              | fictional political group | fixed       |                                      |
+| James Sandin                  | جیمز سندین                       | character                 | fixed       |                                      |
+| Ethan Hawke                   | ایتن هاک                         | person                    | fixed       |                                      |
+| Charlie                       | چارلی                            | character                 | fixed       |                                      |
+| Max Burkholder                | مکس برکهولدر                     | person                    | fixed       |                                      |
+| Edwin Hodge                   | ادوین هاج                        | person                    | fixed       |                                      |
+| Mary Sandin                   | مری سندین                        | character                 | fixed       |                                      |
+| Lena Headey                   | لینا هیدی                        | person                    | fixed       |                                      |
+| vanishing mediator            | میانجی ناپدیدشونده               | concept                   | fixed       |                                      |
+| racialised capitalism         | سرمایه‌داری نژادی‌شده            | concept                   | fixed       |                                      |
+| redlining                     | رِدلاینینگ                       | concept                   | fixed       |                                      |
+| Mike Davis                    | مایک دیویس                       | person                    | fixed       |                                      |
+| The Purge: Anarchy            | پاکسازی: هرج‌ومرج                | work                      | fixed       |                                      |
+| The Purge: Election Year      | پاکسازی: سال انتخابات            | work                      | fixed       |                                      |
+| Carmelo Jones                 | کارملو جونز                      | character                 | fixed       |                                      |
+| Michael K. Williams           | مایکل کی. ویلیامز                | person                    | fixed       |                                      |
+| Black Panther Party           | حزب پلنگ سیاه                    | organization              | fixed       |                                      |
+| mutual aid                    | یاری متقابل                      | concept                   | fixed       |                                      |
+| liberal electoralism          | انتخاباتی‌گری لیبرال             | concept                   | fixed       |                                      |
+| Leo Barnes                    | لئو بارنز                        | character                 | fixed       |                                      |
+| Frank Grillo                  | فرانک گریلو                      | person                    | fixed       |                                      |
+| Charlie Roan                  | چارلی روان                       | character                 | fixed       |                                      |
+| Elizabeth Mitchell            | الیزابت میچل                     | person                    | fixed       |                                      |
+| Malthusian population control | کنترل مالتوسی جمعیت              | concept                   | fixed       |                                      |
+| Dante Bishop                  | دانته بیشاپ                      | character                 | fixed       |                                      |
+| Red Brigades                  | بریگادهای سرخ                    | organization              | fixed       |                                      |
+| Years of Lead                 | سال‌های سرب                      | historical period         | fixed       |                                      |
+| any means necessary           | به هر وسیله‌ی لازم               | phrase                    | fixed       |                                      |
+| better angels of our nature   | فرشتگان بهتر سرشت ما             | phrase                    | fixed       |                                      |
+| Panglossian                   | پانگلوسی                         | concept                   | fixed       |                                      |
+| murder tourism                | گردشگری قتل                      | concept                   | fixed       |                                      |
+| The First Purge               | نخستین پاکسازی                   | work                      | fixed       |                                      |
+| Staten Island                 | استاتن آیلند                     | place                     | fixed       |                                      |
+| Nya                           | نایا                             | character                 | fixed       |                                      |
+| Lex Scott Davis               | لکس اسکات دیویس                  | person                    | fixed       |                                      |
+| Dmitri                        | دیمیتری                          | character                 | fixed       |                                      |
+| Y’lan Noel                    | ییلان نوئل                       | person                    | fixed       |                                      |
+| KKK                           | کوکلاکس‌کلان                     | organization              | fixed       |                                      |
+| An American Utopia            | یک آرمان‌شهر آمریکایی            | work                      | fixed       |                                      |
+| dual power                    | قدرت دوگانه                      | concept                   | fixed       |                                      |
+| Crips                         | کریپس                            | organization              | fixed       |                                      |
+| destituent communism          | کمونیسم خلع‌کننده                | concept                   | provisional | برای بازبینی در صورت تکرار           |
+| The Forever Purge             | پاکسازی ابدی                     | work                      | fixed       |                                      |
+| nativist rhetoric             | لفاظی بومی‌گرایانه               | concept                   | fixed       |                                      |
+| Juan                          | خوان                             | character                 | fixed       |                                      |
+| Adela                         | آدلا                             | character                 | fixed       |                                      |
+| Tenoch Huerta                 | تنوچ هوئرتا                      | person                    | fixed       |                                      |
+| Ana de la Reguera             | آنا د لا رگه‌را                  | person                    | fixed       |                                      |
+| warlordism                    | جنگ‌سالاری                       | concept                   | fixed       |                                      |
+| lumpen proletariat            | لومپن‌پرولتاریا                  | concept                   | fixed       |                                      |
+| The Day After Tomorrow        | پس‌فردا                          | work                      | fixed       |                                      |
+| Roland Emmerich               | رولاند امریش                     | person                    | fixed       |                                      |
+| Matt Zoller Seitz             | مت زولر سیتز                     | person                    | fixed       |                                      |
