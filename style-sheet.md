@@ -1,5 +1,3 @@
-# Translation Style Sheet — Capitalism: A Horror Story
-
 ## 1. اصل کلی ترجمه
 
 ترجمه باید کامل، وفادار به محتوا و در عین حال کاملاً طبیعی و فارسی‌خوان باشد.
