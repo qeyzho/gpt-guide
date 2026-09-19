@@ -632,3 +632,42 @@
 | The Day After Tomorrow        | پس‌فردا                          | work                      | fixed       |                                      |
 | Roland Emmerich               | رولاند امریش                     | person                    | fixed       |                                      |
 | Matt Zoller Seitz             | مت زولر سیتز                     | person                    | fixed       |                                      |
+| American Psycho                  | روانی آمریکایی          | work      | fixed       |                                                            |
+| Victor Sage                      | ویکتور سیج              | person    | fixed       |                                                            |
+| becoming-monstrous               | هیولاوارشدن             | concept   | fixed       |                                                            |
+| Ungleichzeitigkeit               | ناهم‌زمانی              | concept   | fixed       | اصطلاح بلوخ                                                |
+| Konnersreuth                     | کُنرسرویت               | place     | fixed       |                                                            |
+| Therese Neumann                  | ترزه نویمن              | person    | fixed       |                                                            |
+| Fichtelgebirge                   | فیشتل‌گبیرگه            | place     | fixed       |                                                            |
+| Spessart                         | اشپسارت                 | place     | fixed       |                                                            |
+| Hauff                            | هائوف                   | person    | fixed       |                                                            |
+| the darkness of the lived moment | تاریکیِ لحظه‌ی زیسته    | concept   | fixed       | اصطلاح بلوخ                                                |
+| hauntology                       | شبح‌شناسی               | concept   | fixed       |                                                            |
+| Richard Gilman-Opalsky           | ریچارد گیلمن-اوپالسکی   | person    | fixed       |                                                            |
+| The Eighteenth Brumaire          | هجدهم برومر             | work      | fixed       |                                                            |
+| China Miéville                   | چاینا میه‌ویل           | person    | fixed       |                                                            |
+| Monleon                          | مونلئون                 | person    | fixed       | نام در متن فقط به این صورت آمده                            |
+| cognitive mapping                | نقشه‌برداری شناختی      | concept   | fixed       |                                                            |
+| salvage theory                   | نظریه‌ی بازیافت         | concept   | provisional | در بافت فکری میه‌ویل                                       |
+| hermeneutics                     | هرمنوتیک                | concept   | fixed       |                                                            |
+| Karl May                         | کارل مای                | person    | fixed       |                                                            |
+| Arthur Conan Doyle               | آرتور کانن دویل         | person    | fixed       |                                                            |
+| Thomas Ligotti                   | توماس لیگوتی            | person    | fixed       |                                                            |
+| My Work Is Not Yet Done          | کار من هنوز تمام نشده   | work      | fixed       |                                                            |
+| Mirocaw                          | میروکاو                 | place     | fixed       | مکان داستانی                                               |
+| The Last Feast of Harlequin      | آخرین ضیافت هارلکوین    | work      | fixed       |                                                            |
+| A Dark Song                      | آوازی تاریک             | work      | fixed       | فیلم ۲۰۱۶                                                  |
+| Liam Gavin                       | لیام گاوین              | person    | fixed       |                                                            |
+| Sophia                           | سوفیا                   | character | fixed       |                                                            |
+| Catherine Walker                 | کاترین واکر             | person    | fixed       |                                                            |
+| Joseph Solomon                   | جوزف سالومون            | character | fixed       |                                                            |
+| Steve Oram                       | استیو اورام             | person    | fixed       |                                                            |
+| Abramelin ritual                 | آیین آبراملین           | concept   | fixed       |                                                            |
+| programmatic                     | برنامه‌محور             | concept   | fixed       | در بحث فلسفه‌ی آرمان‌شهری                                  |
+| monstered                        | هیولاشده                | concept   | fixed       | کسی/چیزی که در فرایندی اجتماعی یا گفتمانی به هیولا بدل شده |
+| George A. Romero                 | جورج ای. رومرو          | person    | fixed       |                                                            |
+| becoming-subject                 | سوژه‌شونده              | concept   | provisional |                                                            |
+| capitalist apocalypse            | آخرالزمان سرمایه‌دارانه | concept   | fixed       |                                                            |
+| Evan Calder Williams             | ایوان کالدر ویلیامز     | person    | fixed       |                                                            |
+| the undifferentiated             | نامتمایزها              | concept   | fixed       |                                                            |
+| sublime                          | والا                    | concept   | fixed       | در معنای زیبایی‌شناختی                                     |
