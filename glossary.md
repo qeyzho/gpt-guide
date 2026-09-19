@@ -223,3 +223,67 @@
 | Weberian                               | وبری                           | concept               | fixed       |                                 |
 | utilitarianism                         | فایده‌گرایی                    | concept               | fixed       |                                 |
 | capitalist realism                     | رئالیسم سرمایه‌دارانه          | concept               | fixed       |                                 |
+| Victor Frankenstein                            | ویکتور فرانکنشتاین                 | character          | fixed  |                                       |
+| Boris Karloff                                  | بوریس کارلوف                       | person             | fixed  |                                       |
+| Jeffrey Cohen                                  | جفری کوهن                          | person             | fixed  |                                       |
+| monster theory                                 | نظریه‌ی هیولا                      | concept            | fixed  |                                       |
+| monstrosity                                    | هیولاوارگی                         | concept            | fixed  |                                       |
+| Volney                                         | ولنی                               | person             | fixed  |                                       |
+| Plutarch                                       | پلوتارک                            | person             | fixed  |                                       |
+| Milton                                         | میلتون                             | person             | fixed  |                                       |
+| Mary Godwin                                    | مری گادوین                         | person             | fixed  | نام تولد مری شلی                      |
+| Mary Wollstonecraft                            | مری ولستون‌کرافت                   | person             | fixed  |                                       |
+| A Vindication of the Rights of Woman           | دفاعی از حقوق زن                   | work               | fixed  |                                       |
+| Vindications of the Rights of Men              | دفاع از حقوق مردان                 | work               | fixed  |                                       |
+| Edmund Burke                                   | ادموند برک                         | person             | fixed  |                                       |
+| William Godwin                                 | ویلیام گادوین                      | person             | fixed  |                                       |
+| Caleb Williams                                 | کالب ویلیامز                       | work               | fixed  |                                       |
+| Falkland                                       | فالکلند                            | character          | fixed  |                                       |
+| Percy Shelley                                  | پرسی شلی                           | person             | fixed  |                                       |
+| polyvocal                                      | چندآوایی                           | concept            | fixed  |                                       |
+| Haitian Revolution                             | انقلاب هائیتی                      | historical event   | fixed  |                                       |
+| Toussaint L’Ouverture                          | توسن لوورتور                       | person             | fixed  |                                       |
+| C. L. R. James                                 | سی. ال. آر. جیمز                   | person             | fixed  |                                       |
+| Diderot                                        | دیدرو                              | person             | fixed  |                                       |
+| Abbé Raynal                                    | آبه رینال                          | person             | fixed  |                                       |
+| Marie Mulvey-Roberts                           | ماری مالوی-رابرتس                  | person             | fixed  |                                       |
+| slave narrative                                | روایت بردگان                       | concept/genre      | fixed  |                                       |
+| Middle Passage                                 | گذرگاه میانی اقیانوس اطلس          | historical concept | fixed  |                                       |
+| George Canning                                 | جورج کنینگ                         | person             | fixed  |                                       |
+| Lee Sterrenberg                                | لی استرنبرگ                        | person             | fixed  |                                       |
+| polis                                          | پولیس                              | concept            | fixed  | در معنای قلمرو سیاسی/شهر-دولت         |
+| vivisection                                    | تشریح موجود زنده                   | concept            | fixed  |                                       |
+| miscegenation                                  | اختلاط نژادی                       | concept            | fixed  |                                       |
+| Franco Moretti                                 | فرانکو مورتی                       | person             | fixed  |                                       |
+| dialectical sublation                          | رفع دیالکتیکی                      | concept            | fixed  |                                       |
+| Eric Hobsbawm                                  | اریک هابسبام                       | person             | fixed  |                                       |
+| Joshua Clover                                  | جاشوا کلاور                        | person             | fixed  |                                       |
+| riot-strike                                    | شورش‌ـ‌اعتصاب                      | concept            | fixed  |                                       |
+| mob                                            | توده‌ی شورشی                       | concept            | fixed  | در بافت تاریخی مبارزه‌ی طبقاتی        |
+| Not-Yet                                        | هنوز-نه                            | concept            | fixed  | اصطلاح بلوخی                          |
+| E. P. Thompson                                 | ای. پی. تامپسون                    | person             | fixed  |                                       |
+| The Making of the English Working Class        | تکوین طبقه‌ی کارگر انگلستان        | work               | fixed  |                                       |
+| Hobbesian Leviathan                            | لویاتان هابزیِ دولت                | concept            | fixed  |                                       |
+| necropolitical                                 | مرگ‌سیاستی                         | concept            | fixed  |                                       |
+| social death                                   | مرگ اجتماعی                        | concept            | fixed  |                                       |
+| Dracula                                        | دراکولا                            | work/character     | fixed  |                                       |
+| Jonathan Harker                                | جاناتان هارکر                      | character          | fixed  |                                       |
+| Economic and Philosophical Manuscripts of 1844 | دست‌نوشته‌های اقتصادی و فلسفی ۱۸۴۴ | work               | fixed  |                                       |
+| Steve Shaviro                                  | استیو شاویرو                       | person             | fixed  | با Steven Shapiro اشتباه نشود         |
+| capitalist monster                             | هیولای سرمایه‌دار                  | concept            | fixed  |                                       |
+| Katie Stone                                    | کتی استون                          | person             | fixed  |                                       |
+| anti-work                                      | ضدکار                              | concept            | fixed  |                                       |
+| Audre Lorde                                    | آدری لرد                           | person             | fixed  |                                       |
+| Crew of Light                                  | گروه نور                           | fictional group    | fixed  |                                       |
+| queerphobic                                    | کوئیرهراسانه                       | concept            | fixed  |                                       |
+| heteronormative                                | دگرجنس‌هنجار                       | concept            | fixed  |                                       |
+| Lucy Westenra                                  | لوسی وستنرا                        | character          | fixed  |                                       |
+| bloofer lady                                   | بانوی بلوفر                        | concept/name       | fixed  | صورت کودکانه‌ی beautiful lady در رمان |
+| Sophie Lewis                                   | سوفی لوئیس                         | person             | fixed  |                                       |
+| gestational labour                             | کار باردارانه                      | concept            | fixed  |                                       |
+| reproductive labour                            | کار بازتولیدی                      | concept            | fixed  |                                       |
+| ultima Thule                                   | اولتیما توله                       | concept/phrase     | fixed  | در متن مارکس: حد نهایی                |
+| Twilight                                       | گرگ‌ومیش                           | work               | fixed  | مجموعه                                |
+| Bella Swan                                     | بلا سوان                           | character          | fixed  |                                       |
+| Edward                                         | ادوارد                             | character          | fixed  |                                       |
+| Paul Lafargue                                  | پل لافارگ                          | person             | fixed  |                                       |
