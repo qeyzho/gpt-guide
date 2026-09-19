@@ -106,3 +106,50 @@
 | Jacobinism                                   | ژاکوبنیسم                     | concept          | fixed  |                                                            |
 | historical materialism                       | ماتریالیسم تاریخی             | concept          | fixed  |                                                            |
 | Eugene Debs                                  | یوجین دبس                     | person           | fixed  |                                                            |
+| cultural studies         | مطالعات فرهنگی               | field          | fixed  |                                                                      |
+| Richard Hoggart          | ریچارد هوگارت                | person         | fixed  |                                                                      |
+| Raymond Williams         | ریموند ویلیامز               | person         | fixed  |                                                                      |
+| Goethe                   | گوته                         | person         | fixed  |                                                                      |
+| Freudian-Marxist         | فرویدی‌ـ‌مارکسیستی           | concept        | fixed  |                                                                      |
+| Max Ernst                | ماکس ارنست                   | person         | fixed  |                                                                      |
+| Leonora Carrington       | لئونورا کرینگتون             | person         | fixed  | متن اصلی «Lenora» دارد؛ صورت شناخته‌شده‌ی نام Leonora Carrington است |
+| Michael Löwy             | میشائل لووی                  | person         | fixed  |                                                                      |
+| Robert Sayre             | رابرت سیر                    | person         | fixed  |                                                                      |
+| Balzac                   | بالزاک                       | person         | fixed  |                                                                      |
+| Comédie Humaine          | کمدی انسانی                  | work           | fixed  |                                                                      |
+| critical unrealism       | ناواقع‌گرایی انتقادی         | concept        | fixed  |                                                                      |
+| utopian impulse          | تکانه‌ی آرمان‌شهری           | concept        | fixed  |                                                                      |
+| Weltanschauung           | جهان‌بینی                    | concept        | fixed  | اصطلاح آلمانی                                                        |
+| The Castle of Otranto    | قلعه‌ی اوترانتو              | work           | fixed  |                                                                      |
+| Horace Walpole           | هوراس والپول                 | person         | fixed  |                                                                      |
+| Ann Radcliffe            | آن رادکلیف                   | person         | fixed  |                                                                      |
+| explained supernatural   | امر فراطبیعیِ توضیح‌داده‌شده | concept/trope  | fixed  |                                                                      |
+| Frankenstein             | فرانکنشتاین                  | work           | fixed  |                                                                      |
+| Mary Shelley             | مری شلی                      | person         | fixed  |                                                                      |
+| Paracelsus               | پاراسلسوس                    | person         | fixed  |                                                                      |
+| Schiller                 | شیلر                         | person         | fixed  |                                                                      |
+| Schauerroman             | رمان هراس                    | concept/genre  | fixed  | اصطلاح آلمانی                                                        |
+| Samuel Taylor Coleridge  | ساموئل تیلور کالریج          | person         | fixed  |                                                                      |
+| Biographia Literaria     | زندگی‌نامه‌ی ادبی            | work           | fixed  |                                                                      |
+| The Ghost Seer           | شبح‌بین                      | work           | fixed  |                                                                      |
+| Faust                    | فاوست                        | work           | fixed  |                                                                      |
+| Steigerung               | تشدید                        | concept        | fixed  | اصطلاح گوته/بلوخ                                                     |
+| Traces                   | ردپاها                       | work           | fixed  | اثر بلوخ                                                             |
+| Not-Yet-Conscious        | هنوز-به‌آگاهی‌نیامده         | concept        | fixed  | اصطلاح بلوخ                                                          |
+| Nietzsche                | نیچه                         | person         | fixed  |                                                                      |
+| vitalism                 | حیات‌باوری                   | concept        | fixed  |                                                                      |
+| amor fati                | عشق به سرنوشت                | concept        | fixed  |                                                                      |
+| Habermas                 | هابرماس                      | person         | fixed  |                                                                      |
+| Carpe diem               | دم را غنیمت شمار             | phrase/concept | fixed  |                                                                      |
+| Freudianism              | فرویدیسم                     | concept        | fixed  |                                                                      |
+| Rimbaud                  | رمبو                         | person         | fixed  |                                                                      |
+| Lautréamont              | لوتره‌آمون                   | person         | fixed  |                                                                      |
+| Lewis                    | لوئیس                        | person         | fixed  | در این بافت اشاره به Matthew Lewis                                   |
+| Maturin                  | ماتورین                      | person         | fixed  | در این بافت اشاره به Charles Maturin                                 |
+| The Origin of the Family | منشأ خانواده                 | work           | fixed  |                                                                      |
+| A Season in Hell         | فصلی در دوزخ                 | work           | fixed  |                                                                      |
+| State and Revolution     | دولت و انقلاب                | work           | fixed  |                                                                      |
+| Melmoth                  | ملموث                        | work           | fixed  |                                                                      |
+| profane illumination     | اشراق ناسوتی                 | concept        | fixed  | اصطلاح بنیامین                                                       |
+| Margaret Cohen           | مارگارت کوهن                 | person         | fixed  |                                                                      |
+| utopian surplus          | مازاد آرمان‌شهری             | concept        | fixed  |                                                                      |
