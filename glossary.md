@@ -287,3 +287,76 @@
 | Bella Swan                                     | بلا سوان                           | character          | fixed  |                                       |
 | Edward                                         | ادوارد                             | character          | fixed  |                                       |
 | Paul Lafargue                                  | پل لافارگ                          | person             | fixed  |                                       |
+| COVID-19                         | کووید-۱۹                   | concept               | fixed       |                            |
+| microplastics                    | ریزپلاستیک‌ها              | concept               | fixed       |                            |
+| biopolitical                     | زیست‌سیاسی                 | concept               | fixed       |                            |
+| Xavier Aldana Reyes              | خاویر آلدانا ریس           | person                | fixed       |                            |
+| Poe                              | پو                         | person                | fixed       | اشاره به Edgar Allan Poe   |
+| abhuman                          | ناانسان‌واره               | concept               | provisional | اصطلاح در مطالعات وحشت     |
+| H. P. Lovecraft                  | اچ. پی. لاوکرفت            | person                | fixed       |                            |
+| splatter-punk                    | اسپلاترپانک                | genre                 | fixed       |                            |
+| Peter Jackson                    | پیتر جکسون                 | person                | fixed       |                            |
+| Katherine Dunn                   | کاترین دان                 | person                | fixed       |                            |
+| Geek Love                        | عشق عجیب                   | work                  | provisional |                            |
+| The Sadness                      | اندوه                      | work                  | fixed       |                            |
+| Possessor                        | تسخیرگر                    | work                  | fixed       |                            |
+| The Beach House                  | خانه‌ی ساحلی               | work                  | fixed       |                            |
+| Crimes of the Future             | جنایات آینده               | work                  | fixed       |                            |
+| David Cronenberg                 | دیوید کراننبرگ             | person                | fixed       |                            |
+| Saul Tenser                      | ساول تنسر                  | character             | fixed       |                            |
+| Viggo Mortenson                  | ویگو مورتنسن               | person                | fixed       | املای نام مطابق متن منبع   |
+| Caprice                          | کاپریس                     | character             | fixed       |                            |
+| Lea Seydoux                      | لئا سیدو                   | person                | fixed       |                            |
+| accelerated-evolution syndrome   | سندرم تکامل شتاب‌یافته     | concept               | fixed       |                            |
+| The Reincarnation of Saint ORLAN | تجسد دوباره‌ی قدیس اورلان  | work                  | fixed       |                            |
+| ORLAN                            | اورلان                     | person                | fixed       |                            |
+| radical evolutionists            | تکامل‌گرایان رادیکال       | concept/group         | fixed       |                            |
+| CRT                              | سی‌آرتی                    | technology            | fixed       |                            |
+| Videodrome                       | ویدئودروم                  | work                  | fixed       |                            |
+| new flesh                        | گوشت نو                    | concept               | fixed       | اصطلاح محوری در Videodrome |
+| VHS                              | وی‌اچ‌اس                   | technology            | fixed       |                            |
+| Brian O’Blivion                  | برایان اُبلیویون           | character             | fixed       |                            |
+| Bernard Stiegler                 | برنار استیگلر              | person                | fixed       |                            |
+| prosthetic technology            | فناوری پروتزی              | concept               | fixed       |                            |
+| long COVID                       | کووید طولانی               | concept               | fixed       |                            |
+| National Organ Registry          | اداره‌ی ملی ثبت اندام‌ها   | fictional institution | fixed       |                            |
+| Kristen Stewart                  | کریستن استوارت             | person                | fixed       |                            |
+| Rob Jabbaz                       | راب جباز                   | person                | fixed       |                            |
+| Kat                              | کت                         | character             | fixed       |                            |
+| Jim                              | جیم                        | character             | fixed       |                            |
+| Alvin virus                      | ویروس آلوین                | fictional disease     | fixed       |                            |
+| limbic system                    | سامانه‌ی لیمبیک            | concept               | fixed       |                            |
+| Alex Jones                       | الکس جونز                  | person                | fixed       |                            |
+| Crossed                          | کراسد                      | work                  | fixed       |                            |
+| Garth Ennis                      | گارث انیس                  | person                | fixed       |                            |
+| Jeffrey A. Brown                 | جفری ای. براون             | person                | fixed       |                            |
+| Emily                            | امیلی                      | character             | fixed       |                            |
+| Randall                          | رندال                      | character             | fixed       |                            |
+| Liana Liberato                   | لیانا لیبراتو              | person                | fixed       |                            |
+| Noah Le Gros                     | نوآ لو گروس                | person                | fixed       |                            |
+| Mitch                            | میچ                        | character             | fixed       |                            |
+| Jane Turner                      | جین ترنر                   | character             | fixed       |                            |
+| astrobiology                     | اخترزیست‌شناسی             | concept               | fixed       |                            |
+| Brandon Cronenberg               | برندن کراننبرگ             | person                | fixed       |                            |
+| Tasya Vos                        | تاسیا واس                  | character             | fixed       |                            |
+| Andrea Riseborough               | آندریا رایزبرو             | person                | fixed       |                            |
+| Girder                           | گیردر                      | character             | fixed       |                            |
+| Jennifer Jason Leigh             | جنیفر جیسن لی              | person                | fixed       |                            |
+| John Parse                       | جان پارس                   | character             | fixed       |                            |
+| Sean Bean                        | شان بین                    | person                | fixed       |                            |
+| Zoothroo                         | زوترو                      | fictional company     | fixed       |                            |
+| Colin Tate                       | کالین تیت                  | character             | fixed       |                            |
+| Christopher Abbott               | کریستوفر ابوت              | person                | fixed       |                            |
+| Holly                            | هالی                       | character             | fixed       |                            |
+| Ira                              | آیرا                       | character             | fixed       |                            |
+| financial crash                  | بحران بزرگ مالی            | concept/event         | fixed       | در بافت سال ۲۰۰۸           |
+| Oculus Rift                      | آکیولس ریفت                | technology            | fixed       |                            |
+| large language models            | مدل‌های زبانی بزرگ         | concept               | fixed       |                            |
+| panopticon                       | پان‌اپتیکون                | concept               | fixed       |                            |
+| Amazon                           | آمازون                     | organization          | fixed       |                            |
+| Deleuzo-Guattarian               | دلوزی‌ـ‌گتاری              | concept               | fixed       |                            |
+| capitalist reterritorialisation  | بازقلمروسازی سرمایه‌دارانه | concept               | fixed       |                            |
+| Ava                              | آوا                        | character             | fixed       |                            |
+| recalibration                    | بازتنظیم                   | concept               | fixed       |                            |
+| society of control               | جامعه‌ی کنترل              | concept               | fixed       |                            |
+| fugue state                      | حالت گریز ذهنی             | concept               | provisional |                            |
