@@ -93,3 +93,16 @@
 | Susanna Clarke   | سوزانا کلارک        | person        | fixed  |                 |
 | New Yorker       | نیویورکر            | publication   | fixed  |                 |
 | revelation       | مکاشفه              | concept       | fixed  | در بافت الهیاتی |
+| expressionism                                | اکسپرسیونیسم                  | movement/concept | fixed  |                                                            |
+| Edvard Munch                                 | ادوارد مونک                   | person           | fixed  |                                                            |
+| Paul Klee                                    | پل کله                        | person           | fixed  |                                                            |
+| Egon Schiele                                 | اگون شیله                     | person           | fixed  |                                                            |
+| Thomas Munzter                               | توماس مونتسر                  | person           | fixed  | املای نام مطابق متن اصلی؛ صورت تاریخی رایج: Thomas Müntzer |
+| Messianic                                    | مسیحاباورانه                  | concept          | fixed  | در بافت آرمان‌شهرگرایی دینی                                |
+| warm and cold streams                        | جریان‌های گرم و سرد           | concept          | fixed  | اصطلاح بلوخ درباره‌ی دو گرایش در مارکسیسم                  |
+| The Principle of Hope                        | اصل امید                      | work             | fixed  | اثر ارنست بلوخ                                             |
+| coldness and warmth of concrete anticipation | سردی و گرمیِ پیش‌نگری انضمامی | concept          | fixed  | اصطلاح بلوخ                                                |
+| Aristotle                                    | ارسطو                         | person           | fixed  |                                                            |
+| Jacobinism                                   | ژاکوبنیسم                     | concept          | fixed  |                                                            |
+| historical materialism                       | ماتریالیسم تاریخی             | concept          | fixed  |                                                            |
+| Eugene Debs                                  | یوجین دبس                     | person           | fixed  |                                                            |
