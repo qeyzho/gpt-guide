@@ -49,3 +49,38 @@
 | Passagen-Werk                                | پروژه‌ی پاساژها              | work          | fixed       |                                        |
 | Gothic Marxism                               | مارکسیسم گوتیک               | concept       | fixed       |                                        |
 | Marxist Gothic                               | گوتیک مارکسیستی              | concept       | fixed       | از Gothic Marxism متمایز نگه داشته شود |
+| Freud                                   | فروید                         | person          | fixed  |                                                       |
+| mediation                               | میانجی‌گری                    | concept         | fixed  | در بحث رابطه‌ی نیروهای اقتصادی و روبنا                |
+| base/superstructure                     | زیربنا/روبنا                  | concept         | fixed  |                                                       |
+| Ernst Fischer                           | ارنست فیشر                    | person          | fixed  |                                                       |
+| The Necessity of Art                    | ضرورت هنر                     | work            | fixed  |                                                       |
+| Marxist anthropology                    | انسان‌شناسی مارکسیستی         | concept         | fixed  |                                                       |
+| cultural unconscious                    | ناخودآگاه فرهنگی              | concept         | fixed  |                                                       |
+| historicist                             | تاریخ‌گرایانه                 | concept         | fixed  |                                                       |
+| Lukács                                  | لوکاچ                         | person          | fixed  |                                                       |
+| Bloch                                   | بلوخ                          | person          | fixed  | ارنست بلوخ؛ در نخستین ظهور فقط نام خانوادگی آمده است  |
+| mimetic                                 | محاکاتی                       | concept         | fixed  |                                                       |
+| Gramsci                                 | گرامشی                        | person          | fixed  |                                                       |
+| Reich                                   | رایش                          | historical term | fixed  | اشاره به رایش نازی                                    |
+| Brecht                                  | برشت                          | person          | fixed  |                                                       |
+| Stanley Mitchell                        | استنلی میچل                   | person          | fixed  |                                                       |
+| dialectical image                       | تصویر دیالکتیکی               | concept         | fixed  | اصطلاح بنیامین                                        |
+| Theory of Knowledge, Theory of Progress | نظریه‌ی شناخت، نظریه‌ی پیشرفت | section title   | fixed  | بخشی از پروژه‌ی پاساژها                               |
+| Adorno                                  | آدورنو                        | person          | fixed  |                                                       |
+| Anthony Auerbach                        | آنتونی آئورباخ                | person          | fixed  |                                                       |
+| structure of feeling                    | ساختار احساس                  | concept         | fixed  |                                                       |
+| Enzo Traverso                           | انزو تراورسو                  | person          | fixed  |                                                       |
+| William Faulkner                        | ویلیام فاکنر                  | person          | fixed  |                                                       |
+| heterodox Marxist                       | مارکسیست دگراندیش             | concept         | fixed  |                                                       |
+| atheist theologian                      | الهی‌دان خداناباور            | description     | fixed  |                                                       |
+| non-synchronic                          | امر ناهم‌زمان                 | concept         | fixed  | اصطلاح بلوخ                                           |
+| non-synchronicity                       | ناهم‌زمانی                    | concept         | fixed  |                                                       |
+| combined and uneven development         | توسعه‌ی مرکب و ناموزون        | concept         | fixed  |                                                       |
+| teleology                               | غایت‌مندی                     | concept         | fixed  | در صورت کاربرد اسمیِ فلسفی؛ بسته به بافت قابل بازبینی |
+| leftist imagination                     | تخیل چپ‌گرا                   | concept         | fixed  |                                                       |
+| romantic anticapitalism                 | سرمایه‌داری‌ستیزی رمانتیک     | concept         | fixed  |                                                       |
+| Paul Preciado                           | پل پرسیادو                    | person          | fixed  |                                                       |
+| Suspiria                                | سوسپیریا                      | work            | fixed  | فیلم                                                  |
+| The VVitch                              | جادوگر                        | work            | fixed  | فیلم؛ املای stylized عنوان اصلی در آکولاد حفظ شود     |
+| subjectivity                            | سوژگی                         | concept         | fixed  |                                                       |
+| Fredric Jameson                         | فردریک جیمسن                  | person          | fixed  |                                                       |
