@@ -459,3 +459,80 @@
 | Guardian                               | گاردین                           | publication           | fixed       |                                              |
 | Tom Moylan                             | تام مویلن                        | person                | fixed       |                                              |
 | habitus                                | عادت‌واره                        | concept               | fixed       |                                              |
+| cloud                                            | ابر                              | concept/metaphor    | fixed       | استعاره‌ی رایانش و زیرساخت دیجیتال |
+| James Bridle                                     | جیمز برایدل                      | person              | fixed       |                                    |
+| code/space                                       | کد/فضا                           | concept             | fixed       |                                    |
+| New Dark Age                                     | عصر تاریک نو                     | work                | fixed       |                                    |
+| The Call of Cthulhu                              | ندای کثولو                       | work                | fixed       |                                    |
+| link decay                                       | پوسیدگی پیوندها                  | concept             | fixed       |                                    |
+| platform capitalism                              | سرمایه‌داری پلتفرمی              | concept             | fixed       |                                    |
+| spectrality                                      | شبح‌وارگی                        | concept             | fixed       |                                    |
+| Kiyoshi Kurosawa                                 | کیوشی کوروساوا                   | person              | fixed       |                                    |
+| Pulse                                            | پالس                             | work                | fixed       | فیلم ۲۰۰۱                          |
+| Unfriended: Dark Web                             | آنفرندد: دارک وب                 | work                | fixed       |                                    |
+| Host                                             | میزبان                           | work                | fixed       | فیلم ۲۰۲۰                          |
+| Rob Savage                                       | راب ساویج                        | person              | fixed       |                                    |
+| Wendy Liu                                        | وندی لیو                         | person              | fixed       |                                    |
+| Silicon Valley                                   | سیلیکون‌ولی                      | place/concept       | fixed       |                                    |
+| gig economy                                      | اقتصاد گیگی                      | concept             | fixed       |                                    |
+| Timur Bekmambetov                                | تیمور بکمامبتوف                  | person              | fixed       |                                    |
+| screen movie / screen film                       | فیلم صفحه‌نمایشی                 | concept/genre       | fixed       |                                    |
+| Dogme 95                                         | دگما ۹۵                          | movement            | fixed       |                                    |
+| Shane Denson                                     | شین دنسن                         | person              | fixed       |                                    |
+| Julia Leyda                                      | جولیا لیدا                       | person              | fixed       |                                    |
+| post-cinema                                      | پساسینما                         | concept             | fixed       |                                    |
+| The Collingswood Story                           | داستان کالینگز‌وود               | work                | fixed       |                                    |
+| stranger danger                                  | خطر غریبه‌ها                     | concept             | fixed       |                                    |
+| Hard Candy                                       | آبنبات سفت                       | work                | fixed       |                                    |
+| David Slade                                      | دیوید اسلید                      | person              | fixed       |                                    |
+| Elliot Page                                      | الیوت پیج                        | person              | fixed       |                                    |
+| Patrick Wilson                                   | پاتریک ویلسون                    | person              | fixed       |                                    |
+| Japanese lost decade                             | دهه‌ی گمشده‌ی ژاپن               | historical concept  | fixed       |                                    |
+| Michi                                            | میچی                             | character           | fixed       |                                    |
+| Junko Sasano                                     | جونکو ساسانو                     | character           | fixed       |                                    |
+| Toshio Yabe                                      | توشیو یابه                       | character           | fixed       |                                    |
+| Taguchi                                          | تاگوچی                           | character           | fixed       |                                    |
+| Ryosuke Kawashima                                | ریوسوکه کاواشیما                 | character           | fixed       |                                    |
+| On the Economy of the Dead                       | درباره‌ی اقتصاد مردگان           | work                | fixed       |                                    |
+| John Berger                                      | جان برجر                         | person              | fixed       |                                    |
+| Matias                                           | ماتیاس                           | character           | fixed       |                                    |
+| Colin Woodell                                    | کالین وودل                       | person              | fixed       |                                    |
+| Damon                                            | دیمون                            | character           | fixed       |                                    |
+| AJ                                               | ای‌جی                            | character           | fixed       |                                    |
+| Lexx                                             | لکس                              | character           | fixed       |                                    |
+| Serena                                           | سرینا                            | character           | fixed       |                                    |
+| Nari                                             | ناری                             | character           | fixed       |                                    |
+| Andrew Lees                                      | اندرو لیز                        | person              | fixed       |                                    |
+| Connor Del Rio                                   | کانر دل ریو                      | person              | fixed       |                                    |
+| Savira Windyani                                  | ساویرا ویندیانی                  | person              | fixed       |                                    |
+| Rebecca Rittenhouse                              | ربکا ریتنهاوس                    | person              | fixed       |                                    |
+| Betty Gabriel                                    | بتی گابریل                       | person              | fixed       |                                    |
+| Skype                                            | اسکایپ                           | technology/platform | fixed       |                                    |
+| Cards Against Humanity                           | کارت‌ها علیه بشریت               | game                | fixed       |                                    |
+| ASL                                              | زبان اشاره‌ی آمریکایی            | concept             | fixed       |                                    |
+| dark web                                         | دارک وب                          | concept             | fixed       |                                    |
+| Charon                                           | کارون                            | name                | fixed       | نام اعضای گروه در فیلم             |
+| Jing Yang                                        | جینگ یانگ                        | person              | fixed       |                                    |
+| Illuminati                                       | ایلومیناتی                       | concept             | fixed       |                                    |
+| The Way of AJ                                    | راه ای‌جی                        | work                | fixed       |                                    |
+| techno-libertarianism                            | تکنولیبرتارینیسم                 | concept             | fixed       |                                    |
+| SWAT-ing                                         | سواتینگ                          | concept             | fixed       |                                    |
+| Patrick Klepek                                   | پاتریک کلپک                      | person              | fixed       |                                    |
+| digital commons                                  | مشاعات دیجیتال                   | concept             | fixed       |                                    |
+| Nolen Gertz                                      | نولن گرتز                        | person              | fixed       |                                    |
+| anhedonic feedback loops                         | حلقه‌های بازخوردیِ بی‌لذت        | concept             | fixed       |                                    |
+| Zoom                                             | زوم                              | technology/platform | fixed       |                                    |
+| Shudder                                          | شادر                             | platform            | fixed       |                                    |
+| Discord                                          | دیسکورد                          | technology/platform | fixed       |                                    |
+| terminally online                                | تا خرخره آنلاین                  | internet slang      | provisional |                                    |
+| Haley                                            | هیلی                             | character           | fixed       |                                    |
+| Haley Bishop                                     | هیلی بیشاپ                       | person              | fixed       |                                    |
+| Seylan                                           | سیلان                            | character           | fixed       |                                    |
+| Seylan Baxter                                    | سیلان بکستر                      | person              | fixed       |                                    |
+| tulpa                                            | تولپا                            | concept             | fixed       |                                    |
+| The Blair Witch Project                          | پروژه‌ی جادوگر بلر               | work                | fixed       |                                    |
+| Giorgio Agamben                                  | جورجو آگامبن                     | person              | fixed       |                                    |
+| The Third Unconscious                            | ناخودآگاه سوم                    | work                | fixed       |                                    |
+| Franco Berardi                                   | فرانکو براردی                    | person              | fixed       |                                    |
+| Bios                                             | زیست                             | concept             | fixed       | در نقل‌قول براردی                  |
+| Cours camarade, le vieux monde est derrière toi! | بدو رفیق، جهان کهنه پشت سر توست! | phrase              | fixed       | شعار ۱۹۶۸                          |
