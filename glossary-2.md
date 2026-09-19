@@ -109,3 +109,44 @@
 | millenarian posture                                   | ژست هزاره‌باورانه                        | term                 | fixed  |                                          |
 | techno-eschatology                                    | فرجام‌شناسی فناورانه                     | term                 | fixed  |                                          |
 | stoicism                                              | رواقی‌گری                                | term                 | fixed  |                                          |
+| Quality Assurance                      | تضمین کیفیت                                        | term                  | fixed  |                                     |
+| Proustian madeleine                    | مادلن پروستی                                       | cultural term         | fixed  | استعاره از حافظه‌ی ناخواسته         |
+| NASA Mission Control                   | مرکز کنترل مأموریت ناسا                            | place/institution     | fixed  |                                     |
+| New York Stock Exchange                | بورس نیویورک                                       | institution           | fixed  |                                     |
+| Conglomerate2000                       | ابرشرکت ۲۰۰۰                                       | organization/name     | fixed  | دفتر پروژه‌ی Y2K                    |
+| Gone Golfing                           | رفته گلف                                           | phrase/object         | fixed  | نوشته‌ی روی مجسمه                   |
+| Managing Director                      | مدیر اجرایی                                        | job title             | fixed  |                                     |
+| ACLU                                   | ای‌سی‌ال‌یو                                        | organization          | fixed  |                                     |
+| Reproductive Rights                    | حقوق باروری                                        | publication           | fixed  | خبرنامه                             |
+| SAT                                    | اس‌ای‌تی                                           | exam                  | fixed  |                                     |
+| loophole                               | روزنه                                              | term                  | fixed  | در معنای اقتصادی/حقوقی              |
+| Financial Times                        | فایننشال تایمز                                     | publication           | fixed  |                                     |
+| New York Times                         | نیویورک تایمز                                      | publication           | fixed  |                                     |
+| Adweek                                 | اَد‌ویک                                            | publication           | fixed  |                                     |
+| Dayenu                                 | داینو                                              | cultural term         | fixed  | عبارت عبری                          |
+| Quality Assurance Team                 | تیم تضمین کیفیت                                    | organizational unit   | fixed  |                                     |
+| the Andersen people                    | آدم‌های اندرسن                                     | term                  | fixed  | عنوان غیررسمی کارکنان Andersen      |
+| best practice                          | بهترین رویه                                        | term                  | fixed  | اصطلاح مشاوره‌ی مدیریت              |
+| D. W. Winnicott                        | دی. دبلیو. وینیکات                                 | person                | fixed  |                                     |
+| Pete Buttigieg                         | پیت بودجج                                          | person                | fixed  |                                     |
+| South Bend, Indiana                    | ساوث بند، ایندیانا                                 | place                 | fixed  |                                     |
+| rolled off                             | رول‌آف‌شدن                                         | term                  | fixed  | خروج مشاور از پروژه                 |
+| Cindy                                  | سیندی                                              | person                | fixed  |                                     |
+| data warehousing                       | انبارش داده                                        | term                  | fixed  |                                     |
+| Play-Doh                               | خمیر بازی                                          | product               | fixed  |                                     |
+| shops                                  | شاپ‌ها                                             | industry term         | fixed  | اصطلاح صنعت تبلیغات برای شرکت/آژانس |
+| Finland                                | فنلاند                                             | place                 | fixed  |                                     |
+| Rio de Janeiro                         | ریو دو ژانیرو                                      | place                 | fixed  |                                     |
+| Western Australia                      | استرالیای غربی                                     | place                 | fixed  |                                     |
+| New Hire Presentation                  | ارائه‌ی معارفه‌ی استخدام جدید                      | document/presentation | fixed  |                                     |
+| Time Bomb 2000                         | بمب ساعتی ۲۰۰۰                                     | work                  | fixed  |                                     |
+| Noted Economist Predicts Y2K Recession | اقتصاددان سرشناس رکود وای‌تو‌کی را پیش‌بینی می‌کند | article               | fixed  |                                     |
+| Formica                                | فرمیکا                                             | material/brand        | fixed  |                                     |
+| 1010 WINS                              | ۱۰۱۰ وینز                                          | media                 | fixed  | ایستگاه رادیویی                     |
+| Phase I: Inventory                     | مرحله‌ی اول: فهرست موجودی                          | project phase         | fixed  |                                     |
+| Ivy League                             | آیوی لیگ                                           | institution group     | fixed  |                                     |
+| Inventory Database                     | پایگاه داده‌ی فهرست موجودی                         | term                  | fixed  |                                     |
+| to q.a.                                | کیوای‌کردن                                         | workplace jargon      | fixed  | فعل داخلی تیم                       |
+| q.a.’ed                                | کیوای‌شده                                          | workplace jargon      | fixed  | صورت گذشته                          |
+| Doomsday 2000                          | قیامت ۲۰۰۰                                         | term                  | fixed  |                                     |
+| work-around                            | راه دورزدن                                         | term                  | fixed  | راه‌حل موقت/جایگزین                 |
