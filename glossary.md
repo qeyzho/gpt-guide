@@ -84,3 +84,12 @@
 | The VVitch                              | جادوگر                        | work            | fixed  | فیلم؛ املای stylized عنوان اصلی در آکولاد حفظ شود     |
 | subjectivity                            | سوژگی                         | concept         | fixed  |                                                       |
 | Fredric Jameson                         | فردریک جیمسن                  | person          | fixed  |                                                       |
+| Steven Shapiro   | استیون شاپیرو       | person        | fixed  |                 |
+| Mark Storey      | مارک استوری         | person        | fixed  |                 |
+| Horror Vanguard  | پیشاهنگ وحشت        | work/podcast  | fixed  |                 |
+| affect theorists | نظریه‌پردازان عاطفه | concept/field | fixed  |                 |
+| Alien            | بیگانه              | work          | fixed  | فیلم ۱۹۷۹       |
+| Event Horizon    | افق رویداد          | work          | fixed  | فیلم ۱۹۹۷       |
+| Susanna Clarke   | سوزانا کلارک        | person        | fixed  |                 |
+| New Yorker       | نیویورکر            | publication   | fixed  |                 |
+| revelation       | مکاشفه              | concept       | fixed  | در بافت الهیاتی |
