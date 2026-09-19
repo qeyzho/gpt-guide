@@ -222,3 +222,40 @@
 | CTOs                                                                                                              | مدیران فناوری                                           | job title             | fixed  |                                              |
 | aides-de-camp                                                                                                     | دستیاران ملازم                                          | term                  | fixed  |                                              |
 | Executive Council Presentation                                                                                    | ارائه‌ی شورای اجرایی                                    | document/presentation | fixed  |                                              |
+| Write What You Know              | از آنچه می‌دانی بنویس                        | section title        | fixed  |                             |
+| Cover Your Ass                   | پشت خودت را محکم کن                          | workplace phrase     | fixed  |                             |
+| Titanic                          | تایتانیک                                     | work/ship            | fixed  |                             |
+| White Star Line                  | وایت استار لاین                              | company              | fixed  |                             |
+| Mademoiselle                     | مادموازل                                     | organization         | fixed  | مؤسسه‌ی کاریابی             |
+| Madam                            | مادام                                        | term                 | fixed  | بازی زبانی با Mademoiselle  |
+| den mother                       | مامانِ لانه                                  | nickname             | fixed  | لقب سیندی                   |
+| Guy, the Documentation Expert    | گای، کارشناس مستندسازی                       | nickname/title       | fixed  |                             |
+| the General                      | ژنرال                                        | nickname             | fixed  | لقب جاستین                  |
+| the blonde QA twins              | دوقلوهای بلوند تضمین کیفیت                   | nickname             | fixed  |                             |
+| Managers Meetings                | جلسات مدیران                                 | organizational event | fixed  |                             |
+| General Meetings                 | جلسات عمومی                                  | organizational event | fixed  |                             |
+| Think Straight, Talk Straight    | راست فکر کن، راست حرف بزن                    | corporate motto      | fixed  | بازی معنایی straight در متن |
+| heteronormativity                | دگرجنس‌هنجاری                                | term                 | fixed  |                             |
+| Bildungsroman                    | بیلدونگزرومان (رمان تربیتی)                  | literary term        | fixed  |                             |
+| Vienna                           | وین                                          | place                | fixed  |                             |
+| Phase II                         | مرحله‌ی دوم                                  | project phase        | fixed  |                             |
+| Bildungsroman: A Year in My Life | بیلدونگزرومان: یک سال از زندگی من            | work                 | fixed  | عنوان دست‌نوشته‌ی نویسنده   |
+| Magdalena                        | ماگدالنا                                     | person               | fixed  |                             |
+| Leni                             | لنی                                          | person               | fixed  | صورت مصغر آلمانی Magdalena  |
+| Captain von Trapp                | کاپیتان فون تراپ                             | character            | fixed  |                             |
+| Fraulein Maria                   | فرولاین ماریا                                | character            | fixed  |                             |
+| The Sound of Music               | اشک‌ها و لبخندها                             | work                 | fixed  | عنوان رایج فارسی فیلم       |
+| Mexico City                      | مکزیکوسیتی                                   | place                | fixed  |                             |
+| narrative non-fiction MFA        | کارشناسی ارشد هنرهای زیبا در غیرداستان روایی | academic term        | fixed  |                             |
+| Rockefeller Center subway stop   | ایستگاه متروی راکفلر سنتر                    | place                | fixed  |                             |
+| Fifty-Fourth Street              | خیابان پنجاه‌وچهارم                          | place                | fixed  |                             |
+| Do Not Enter                     | وارد نشوید                                   | phrase/sign          | fixed  | نوشته‌ی روی در سالن سیگار   |
+| habitus                          | عادت‌واره                                    | term                 | fixed  |                             |
+| umwelt                           | اوم‌ولت (جهان پیرامون)                       | term                 | fixed  |                             |
+| The Brady Bunch                  | خانواده‌ی بریدی                              | work                 | fixed  |                             |
+| Tony Soprano                     | تونی سوپرانو                                 | character            | fixed  |                             |
+| bodhisattva                      | بودیساتوا                                    | term                 | fixed  |                             |
+| Keynes                           | کینز                                         | person               | fixed  |                             |
+| Stalin                           | استالین                                      | person               | fixed  |                             |
+| French Revolution                | انقلاب فرانسه                                | historical event     | fixed  |                             |
+| late capitalism                  | سرمایه‌داری متأخر                            | term                 | fixed  |                             |
